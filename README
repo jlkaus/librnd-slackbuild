@@ -1,0 +1,8 @@
+librnd (modular 2d CAD framework for pcb-rnd and other Ringdove apps)
+
+librnd is a modular framework library for 2D CAD applications.
+
+Notably, pcb-rnd uses it, and other associated applications in the
+Ringdove EDA suite.
+
+Hosted at http://repo.hu/projects/librnd
